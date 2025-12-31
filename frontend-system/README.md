@@ -1,2 +1,9 @@
-# employee-management-system
-Lean, production-ready Employee Management System built using React, TypeScript, and .NET
+# Frontend – Employee Management System
+
+This folder contains the React + TypeScript frontend application.
+
+## Responsibilities
+- User authentication UI
+- Employee management UI
+- Role-based rendering
+- API integration
